@@ -1,0 +1,12 @@
+Help Desk Simulation Lab - Active Directory & ITSM (FreshService)
+
+Objective:
+Simulate a realistic IT Help Desk environment where common Active Directory (AD) issues are resolved via tickets submitted through FreshService.
+
+The lab focuses on handling support scenarios such as:
+- Account lockout due to incorrect password attempts
+- Disabled accounts
+- Password reset requests
+- New user provisioning (optional)
+
+Note: This project assumes a pre-configured AD domain and domain-joined client VM.

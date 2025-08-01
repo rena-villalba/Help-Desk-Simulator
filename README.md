@@ -6,12 +6,6 @@ A lab simulation designed to showcase real-world IT support scenarios using:
 - 🧾 FreshService (ITSM platform)
 - 💼 Windows Client VMs
 
-The project simulates real Help Desk situations such as:
-- Account lockouts
-- Disabled accounts
-- Password resets
-- Temporary user creation (requested by HR)
-
 ## 🧠 Objective
 
 This lab was created to demonstrate technical and communication skills used in Tier 1 Help Desk and SOC support roles.
@@ -30,7 +24,18 @@ This lab was created to demonstrate technical and communication skills used in T
 - Windows 10 (Client)
 - FreshService (ITSM)
 
-## 🚀 How to Use This Repo
+## 💼 Scenarios Covered
 
-You can use this lab as a personal learning tool or as a demonstration of your technical workflow. Recruiters or team leads can navigate to any ticket to review the process and critical thinking involved.
+- Account locked due to failed login attempts
+- Disabled account resolution
+- Password reset for a forgotten password
+- Temporary account creation requested by HR
+
+### 📂 Ticket Scenarios
+
+- [Ticket 1 – Password Reset](tickets/01_password_reset.md)
+- [Ticket 2 – Account Locked](tickets/02_account_lockout.md)
+- [Ticket 3 – Disabled Account](tickets/03_disabled_account.md)
+- [Ticket 4 – Temporary Account Request](tickets/04_tmp_user_created.md)
+
 

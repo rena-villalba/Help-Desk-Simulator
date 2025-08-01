@@ -1,12 +1,15 @@
 # Scenario 03: Disabled Account
 
+## Screenshots Folder
+- [Ticket 3 – Disabled Account](../screenshots/3.disabled_account_ticket)
+
 ## 🎫 Ticket
 **Requester**: Santiago Villa
 **Subject**: Disabled Account
 **Description**: “Can someone help me, I think there's an issue with my account.”
 
 ## 🔍 Client-side reproduction
-- Screenshot of disabled account on the client VM (path: screenshots/3.disabled_account_ticket/)
+- Screenshot of disabled account on the client VM / [Image](../screenshots/3.disabled_account_ticket/1.disabled_account.png)
 - Evidence the account is disabled on the login screen
 
 ## 🖥️ Investigation (on DC/AD server)

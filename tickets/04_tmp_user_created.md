@@ -1,4 +1,4 @@
-# Scenario #4: Temporary User Account Creation (Requested by HR)
+# Scenario 04: Temporary User Account Creation (Requested by HR)
 
 ## Screenshots Folder
 - [Ticket 4 – Temporary User Account Creation](../screenshots/4.tmp_user_ticket)

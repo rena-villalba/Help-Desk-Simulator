@@ -1,12 +1,15 @@
 # Scenario 02: Account Lockout
 
+## Screenshots Folder
+- [Ticket 2 – Account Lockout](../screenshots/2.locked_account_ticket)
+
 ## 🎫 Ticket
 **Requester**: Melisa Cetion (Sales)
 **Subject**: Account locked after multiple login attempts (4 attempts) 
 **Description**: “I tried logging in four times and now can’t sign in.”
 
 ## 🔍 Client-side reproduction
-- Screenshot of failed logins on the client VM (path: screenshots/2.locked_account_ticket/)
+- Screenshot of failed logins on the client VM / [Image](../screenshots/2.locked_account_ticket/1.locked_account.png)
 - Evidence the account is locked on the login screen
 
 ## 🖥️ Investigation (on DC/AD server)

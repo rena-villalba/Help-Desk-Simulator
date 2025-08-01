@@ -1,5 +1,8 @@
 # Scenario 01: Password Reset
 
+## Screenshots Folder
+- [Ticket 1 – Password Reset](../screenshots/1.reset_password_ticket)
+
 ## 🎫 Ticket
 **Requester**: Juan Vitoli (HR Department)
 **Subject**: Reset Password 
